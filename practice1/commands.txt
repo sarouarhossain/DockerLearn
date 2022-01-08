@@ -1,0 +1,5 @@
+$ docker build -t welcome:1.0 .
+docker images
+docker run our_app
+docker run -i our_app
+docker run -it our_app
